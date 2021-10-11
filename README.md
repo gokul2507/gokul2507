@@ -6,7 +6,10 @@
 <a href="mailto:srigokulrajendiran@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="srigokulrajendiran@gmail.com" height="30" width="40" /></a>
 
 - Know Languages:
-   - C C++ Java Python
+<a href="https://devdocs.io/c/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="C" height="30" width="40" /></a>
+<a href="https://devdocs.io/cpp/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" height="30" width="40" /></a>
+<a href="https://docs.oracle.com/en/java/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" height="30" width="40" /></a>
+<a href="https://docs.python.org/3/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40" /></a>
 - Worked In
 - - NodeJs ReactJs 
 - Own Websites
