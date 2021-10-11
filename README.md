@@ -1,3 +1,3 @@
 - 🔭 I’m currently 3rd year cse student
 - 💬 Ask me about ...
-- 📫 How to reach me: [![Discord](https://img.icons8.com/color/48/000000/discord--v2.png)](https://discord.gg/sXbFf5uz)
+- 📫 How to reach me: [Discord](https://discord.gg/sXbFf5uz)
