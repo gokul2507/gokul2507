@@ -21,3 +21,6 @@
 
 - Own Websites
   - [Grab Scrap](https://grab-scrap.herokuapp.com/home)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gokul2507&show_icons=true" alt=rahuldkjain /> </p>
+
