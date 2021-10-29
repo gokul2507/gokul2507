@@ -21,7 +21,7 @@
 
 - Own Websites
   - [Grab Scrap](https://grab-scrap.herokuapp.com/home)
-- Works
+- Other Works
   - [Car](https://gokul2507.github.io/Car_Css/)
   - [Side Bar](https://gokul2507.github.io/Side_Bar/)
   - [Neumorphism card](https://gokul2507.github.io/Neumorphism_card/)
