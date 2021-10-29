@@ -21,6 +21,11 @@
 
 - Own Websites
   - [Grab Scrap](https://grab-scrap.herokuapp.com/home)
+- Works
+  - [Car](https://gokul2507.github.io/Car_Css/)
+  - [Side Bar](https://gokul2507.github.io/Side_Bar/)
+  - [Neumorphism card](https://gokul2507.github.io/Neumorphism_card/)
+  - [Head_Set](https://gokul2507.github.io/Head_Set/)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gokul2507&show_icons=true" alt=rahuldkjain /> </p>
 
