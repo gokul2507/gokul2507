@@ -30,5 +30,5 @@
   - [Whatsapp](https://gokul2507.github.io/Whatsapp/)
   - [Menu](https://gokul2507.github.io/menu/)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gokul2507&show_icons=true" alt=rahuldkjain /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gokul2507&show_icons=true" alt="Gokul Rajendiran" /> </p>
 
