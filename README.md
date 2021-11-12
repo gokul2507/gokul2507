@@ -31,8 +31,7 @@
   - [Menu](https://gokul2507.github.io/menu/)
   - [Loader](https://gokul2507.github.io/Loader/)
   - [Loading](https://gokul2507.github.io/loading/)
-<div>
-<p display: inline-block;> <img src="https://github-readme-stats.vercel.app/api?username=gokul2507&show_icons=true" alt="Gokul Rajendiran" /> </p>
-<p display: inline-block;><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul2507&show_icons=true&locale=en&layout=compact" alt="Gokul2507" /></p>
-<p width: max-content;margin: auto;><img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul2507&" alt="Gokul2507" /></p>
-</div>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gokul2507&show_icons=true" alt="Gokul Rajendiran" /> </p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokul2507&show_icons=true&locale=en&layout=compact" alt="Gokul2507" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokul2507&" alt="Gokul2507" /></p>
