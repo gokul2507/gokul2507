@@ -1,4 +1,3 @@
-[GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 
 <span style="color: #fe428e;font-weight: bold;">
 
