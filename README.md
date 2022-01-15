@@ -1,6 +1,3 @@
-
-<span style="color: #fe428e;font-weight: bold;">
-
 - 🔭 I’m currently working on [<span style="color:#f8d847">Django Mini Project</span>](https://github.com/gokul2507/MiniProject)
 - 🌱 I’m currently learning <span style="color:#f8d847">**FULL Stack**</span>
 
@@ -46,6 +43,7 @@
   ⦿ [Loading](https://gokul2507.github.io/loading/)
 
 <br>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gokul2507&show_icons=true&theme=radical" alt="Gokul Rajendiran" /> 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul2507&show_icons=true&locale=en&langs_count=3&theme=radical" alt="Gokul2507" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul2507&theme=radical" alt="Gokul2507" />
