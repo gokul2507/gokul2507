@@ -1,5 +1,4 @@
-
-<span style="color: #fe428e;font-weight: bold;">
+<span class="temp" style="color: #fe428e;font-weight: bold;">
 
 - 🔭 I’m currently working on [<span style="color:#f8d847">Django Mini Project</span>](https://github.com/gokul2507/MiniProject)
 - 🌱 I’m currently learning <span style="color:#f8d847">**FULL Stack**</span>
