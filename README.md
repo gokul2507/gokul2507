@@ -12,9 +12,7 @@
   <a href="https://www.linkedin.com/in/gokul-rajendiran/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokul-rajendiran" height="30" width="40" /></a>
   <a href="https://www.instagram.com/gokul_rio_2507/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokul_rio_2507" height="30" width="40" /></a>
   <a href="mailto:srigokulrajendiran@gmail.com" target="blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="srigokulrajendiran@gmail.com" height="30" width="40" /></a>
-<!-- #5bcdec
-#fe428e
- -->
+
 
 ## <p style="font-weight: bold;">**Technologies and Languages**</p>
 
